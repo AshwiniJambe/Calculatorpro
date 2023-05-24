@@ -19,6 +19,7 @@ public class Calculator{
         cal.mul(num1,num2);
         cal.div(num1,num2);
 	cal.mod(num1,num2);
+	cal.per (num1, num2);
     }
 
 	public static int add(int num1, int num2) {
